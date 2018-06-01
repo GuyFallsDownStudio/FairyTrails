@@ -6,10 +6,10 @@ Only one person needs to download the app from the Google Play Store or Apple's 
 Through the app, the group will explore Minnetrista's campus and encounter playful fairies.
 
 ## Background
-_Fairy Trails_ was created by a multidisciplinary team of undergraduate students at [Ball
-State University](https://bsu.edu) in Spring 2018.
+_Fairy Trails_ was created by a multidisciplinary team of undergraduate students at
+ [Ball State University](http://bsu.edu/) in Spring 2018.
 The team formed _Guy Falls Down Studio_ and created this
-game as part of an [http://bsu.edu/immersive](immersive learning) experience.
+game as part of an [immersive learning](http://bsu.edu/immersive) experience.
 
 ## Acknowledgements
 Guy Falls Down Studio graciously acknowledges the support of the following people and organizations:
